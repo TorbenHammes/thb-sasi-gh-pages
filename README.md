@@ -23,6 +23,7 @@
 - Bulma
 - SASS
 - GraphQL
+- [Gatsby Plugin GH-Pages](https://www.gatsbyjs.org/docs/how-gatsby-works-with-github-pages/)
 
 ## How to use it? 👨‍💻
 
