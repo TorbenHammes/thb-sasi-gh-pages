@@ -12,7 +12,7 @@ module.exports = {
 		bulma: 'https://bulma.io/',
 		siteUrl: `https://www.example.com`
 	},
-	pathPrefix: "/thb-sasi-gh-pages",
+	pathPrefix: "/",
 	plugins: [
 		'gatsby-plugin-react-helmet',
 		{
